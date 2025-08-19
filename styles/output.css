@@ -414,6 +414,15 @@
   .max-w-\[40ch\] {
     max-width: 40ch;
   }
+  .max-w-\[50ch\] {
+    max-width: 50ch;
+  }
+  .max-w-\[60ch\] {
+    max-width: 60ch;
+  }
+  .max-w-\[80ch\] {
+    max-width: 80ch;
+  }
   .max-w-\[100ch\] {
     max-width: 100ch;
   }
