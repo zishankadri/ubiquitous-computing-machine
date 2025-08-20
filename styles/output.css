@@ -832,6 +832,9 @@
   .text-lime-100 {
     color: var(--color-lime-100);
   }
+  .text-lime-200 {
+    color: var(--color-lime-200);
+  }
   .text-lime-400 {
     color: var(--color-lime-400);
   }
